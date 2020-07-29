@@ -8,6 +8,7 @@ export const VideoContainer = styled.div`
   @media (max-width: 800px) {
     display: none;
   }
+  
 `;
 
 export const ResponsiveIframe = styled.iframe`
