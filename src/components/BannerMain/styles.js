@@ -46,6 +46,8 @@ ContentAreaContainer.Category = styled.h1`
 `;
 
 ContentAreaContainer.Description = styled.p`
+     margin-right: 9rem;
+     
   @media (max-width: 800px) {
     display: none;
   }

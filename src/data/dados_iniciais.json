@@ -1,7 +1,7 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
+      "titulo": "Investimentos",
       "link": "https://www.alura.com.br/formacao-front-end",
       "cor": "#6BD1FF",
       "link_extra": {
@@ -10,8 +10,8 @@
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "É tempo de Investir!",
+          "url": "https://www.youtube.com/watch?v=75xNPhgz7Q8"
         },
         {
           "titulo": "SEO com React",

@@ -12,6 +12,8 @@
 ## Conteúdos Abordados
 - React Components 
 - Roteamento e state
+- Formulários reutilizáveis
+
 
 
 ## Como rodar o projeto?
@@ -64,6 +66,7 @@ npm install react-slick
 }
 ```
 
+
 ### Links Úteis
 
 | Link | Descrição |
@@ -89,8 +92,8 @@ npm install react-slick
 |[React Slick](https://react-slick.neostack.com/)|Biblioteca para carousel |
 |[slick](https://kenwheeler.github.io/slick/)|Personalizando carousel |
 |[Shields](https://shields.io/)|Persolanização de Shields |
+|[React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)|Extensão React Developer Tools  |
 |[]()|  |
-
 
 ## License/Licença do Projeto
 [MIT License](./LICENSE) © [Nathyflix](https://nathyflix.vercel.app/)
