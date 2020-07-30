@@ -37,8 +37,6 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-## Link final pra quem quiser já ir fazendo formulários:
-- https://www.youtube.com/watch?v=cMq6k7ymv2s
 
 
 ## Durante a aula - Roteamento e state
@@ -89,6 +87,10 @@ npm install react-slick
 |[Estilos globais, reset e Menu](https://www.youtube.com/watch?v=nDxp3YEpR1E&list=PLbcp5RKTX5wNF34qxISyWY6kignmhBQRT)|Estilização Imersão React 01 - Estilos globais, reset e Menu  |
 |[Plugin Screencastify](https://chrome.google.com/webstore/detail/screencastify-screen-vide/mmeijimgabbpbgpdklnllpncmdofkcpn)|Plugin do Chrome para gravar o seu site em ação |
 |[React Slick](https://react-slick.neostack.com/)|Biblioteca para carousel |
+|[slick](https://kenwheeler.github.io/slick/)|Personalizando carousel |
+|[Shields](https://shields.io/)|Persolanização de Shields |
+|[]()|  |
+
 
 ## License/Licença do Projeto
 [MIT License](./LICENSE) © [Nathyflix](https://nathyflix.vercel.app/)
