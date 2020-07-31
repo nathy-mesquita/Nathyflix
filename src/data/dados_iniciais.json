@@ -3,181 +3,225 @@
     {
       "titulo": "Investimentos",
       "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "#6BD1FF",
+      "cor": "#842AD4",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Status Invest",
+        "url": "https://statusinvest.com.br/"
       },
       "videos": [
         {
-          "titulo": "É tempo de Investir!",
-          "url": "https://www.youtube.com/watch?v=75xNPhgz7Q8"
+          "titulo": "Hi there! 🌱",
+          "url": "https://www.youtube.com/watch?v=FAsrHKXHh4o"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Live do Holder #3 - Como Montar uma Carteira de Investimentos para o Longo Prazo",
+          "url": "https://www.youtube.com/watch?v=jAE1cgqUZOo&t"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Contabilidade para Investidores - Canal do Holder",
+          "url": "https://www.youtube.com/watch?v=pkiyfn9pVtg&list=PLCrxuqCpidXrM16Y0yT4gqaU7MDPACXeG"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Análise de Ações - Canal do Holder",
+          "url": "https://www.youtube.com/watch?v=ewq_gGz9sTg&list=PLCrxuqCpidXoKQqiS8U1ePCI_wEw_dEaH"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Café com Holder - Canal do Holder",
+          "url": "https://www.youtube.com/watch?v=rY7euoogZv8&list=PLCrxuqCpidXqTFyLcaHG9cwD5S4B6Whb0&index=1"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Por que WEGE3 ainda é um excelente investimento - Análise dos Resultados 2020",
+          "url": "https://www.youtube.com/watch?v=Y37cDWZ_jIo"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "Bons Resultados de MDIA3 frente ao crash da bolsa",
+          "url": "https://www.youtube.com/watch?v=2qFsrCkWMhQ"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "TOP 3 Ações do Setor Elétrico - Geração, Transmissão e Distribuição",
+          "url": "https://www.youtube.com/watch?v=QrvLebH8kLU"
         }
       ]
     },
     {
-      "titulo": "Back End",
-      "cor": "#00C86F",
+      "titulo": "Tecnologia",
+      "cor": "#5B6EDA",
       "link_extra": {
         "text": "Cursos de Back End na Alura",
         "url": "https://www.alura.com.br/cursos-online-programacao"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "Desafio: 10 projetos rápidos para treinar Programação e conseguir um Emprego",
+          "url": "https://www.youtube.com/watch?v=fYR9L2ZmodM&t"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "680 Recursos Grátis para Programadores Frontend, Backend, DevOps e Designers",
+          "url": "https://www.youtube.com/watch?v=tpaSZ8x21PI"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "4 robôs que criam vídeos no YouTube- Filipe Deschamps",
+          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY&list=PLMdYygf53DP4YTVeu0JxVnWq01uXrLwHi"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "Livro Clean Code- Filipe Deschamps",
+          "url": "https://www.youtube.com/watch?v=9w3o9NHXqu0&list=PLMdYygf53DP5Sc6yFYs6ZmjsuuA2fu0TK"
         },
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "Checklist do Programador Sênior: 10 itens para você ser um Programador MUITO acima da médi",
+          "url": "https://www.youtube.com/watch?v=12GFiyMuVmc"
+        },
+        {
+          "titulo": "Programadores Altamente Eficazes: 7 Hábitos",
+          "url": "https://www.youtube.com/watch?v=cJx0k_ln1-g"
+        },
+        {
+          "titulo": "Seja um Programador Melhor: 10 Repositórios SENSACIONAIS no GitHub (tudo Open Source!)",
+          "url": "https://www.youtube.com/watch?v=vGQSG_YnTOw"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
-      "cor": "#9cd33b",
+      "titulo": "Yoga",
+      "cor": "#3234C7",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "Yoga para Quem Nunca Praticou | Pri Leite",
+        "url": "https://www.youtube.com/watch?v=OuCvUDVoX3M&list=PLnXTMjA8X5lf-0rRw5PDQIoJFbOniDKwO"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "Yoga para Não Surtar | COVID -19 | Pri Leite",
+          "url": "https://www.youtube.com/watch?v=dRD3j-ejtlU&list=PLnXTMjA8X5len6eEtMsqOwj63Hdmlv_w9"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Yoga para Jovens 60+ | Especial de Quarentena | Pri Leite",
+          "url": "https://www.youtube.com/watch?v=Lw8um-UFb44&list=PLnXTMjA8X5ldkqehIpTqRHQ7xivisBaJR"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Yoga para Elevar e Tranquilizar | 10Min- Pri Leite",
+          "url": "https://www.youtube.com/watch?v=C2goOWyQ4pg&list=PLnXTMjA8X5ldyMcsaRvJgo8e8iF2hQ3jO"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Yoga Love | 20 Min - Pri Leite",
+          "url": "https://www.youtube.com/watch?v=U3R_3yYukF8&list=PLnXTMjA8X5lf7zsvKIZbpVBidW9Y5Md13"
+        },
+        {
+          "titulo": "Yoga para Aliviar Stress e Ansiedade |25Min - Pri Leite",
+          "url": "https://www.youtube.com/watch?v=KCkOCxPSlKE&list=PLnXTMjA8X5lc0Ka-KS5WZ0UM99Dl6qgXX"
+        },
+        {
+          "titulo": "Yoga para Receber o Novo | 35 Min - Pri Leite",
+          "url": "https://www.youtube.com/watch?v=veI-3uIUz64&list=PLnXTMjA8X5lcWkff5hQsinJQLUJb6RCRc"
+        },
+        {
+          "titulo": "Yoga Detox | 50 Min - Pri Leite",
+          "url": "https://www.youtube.com/watch?v=vwLfhn_w1So&list=PLnXTMjA8X5lfnDdeN2wlAPZBPLpQ-bk4Q"
         }
       ]
     },
     {
-      "titulo": "Filmes",
-      "cor": "orange",
+      "titulo": "Empreendedorismo",
+      "cor": "#2C5EDE",
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "EMPREENDEDORES E AUTÔNOMOS (RICOS LICITAMENTE)",
+          "url": "https://www.youtube.com/watch?v=MCX8hwdu1lw&list=PL5vSn8ej1b0u5dvwoVSvrAxg-0cocCgFh"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "Empreendedorismo | Jovens de Negócios",
+          "url": "https://www.youtube.com/watch?v=ypp32BOP_mw&list=PLAKfMr7XPL7-eE-ErbjjIqkYnu-dlfrtn"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "Primo Rico - 10 Dicas infalíveis para a gestão financeira dos pequenos negócios",
+          "url": "https://www.youtube.com/watch?v=YhK0jVYq4IY"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "7 FORMAS DE GANHAR DINHEIRO NA INTERNET! (COMPROVADAS e que QUALQUER UM pode fazer)",
+          "url": "https://www.youtube.com/watch?v=g-I7FWBHSI8"
+        },
+        {
+          "titulo": "5 PASSOS PARA TIRAR UM NEGÓCIO DO PAPEL | Como criar um negócio do zero? (COM E-BOOK GRATUITO)",
+          "url": "https://www.youtube.com/watch?v=dZCzE4U7Ynw"
+        },
+        {
+          "titulo": "NÃO COMECE UM NEGÓCIO SEM VER ESTE VÍDEO",
+          "url": "https://www.youtube.com/watch?v=KQUkrvP5ToE"
+        },
+        {
+          "titulo": "A INCRÍVEL VIDA DE BILL GATES | Histórias de Sucesso #3",
+          "url": "https://www.youtube.com/watch?v=FRIu3c5j4X0"
         }
       ]
     },
     {
-      "titulo": "Games",
-      "cor": "red",
-      "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
-      },
+      "titulo": "Concurso",
+      "cor": "#2A86D4",
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "UMA ROTINA DE ESTUDO",
+          "url": "https://www.youtube.com/watch?v=TPQ5llV93hE"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "Qual o PERCENTUAL DE ACERTOS para ser APROVADO em concursos públicos?",
+          "url": "https://www.youtube.com/watch?v=N1p9gxC-XPE"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "Por que você DEVERIA fazer um concurso público escada.",
+          "url": "https://www.youtube.com/watch?v=HSt2lpxyJRQ"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "COMO ESTUDAR SEM CURSINHO | PASSO A PASSO",
+          "url": "https://www.youtube.com/watch?v=Lmt3bIV1oC0"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "7 Dicas Para Conseguir Estudar Todos Os Dias",
+          "url": "https://www.youtube.com/watch?v=rqcECFPTRfo"
+        },
+        {
+          "titulo": "5 Coisas Que Eu Queria Saber Quando Comecei a Estudar Para Concursos",
+          "url": "https://www.youtube.com/watch?v=Bwg2jAxmvrg"
+        },
+        {
+          "titulo": "5 HÁBITOS DOS APROVADOS EM CONCURSO",
+          "url": "https://www.youtube.com/watch?v=3ZA9q8TX_n4"
+        },
+        {
+          "titulo": "TUDO QUE VOCÊ PRECISA SABER SOBRE MAPAS MENTAIS | PODCAST #001",
+          "url": "https://www.youtube.com/watch?v=p-j43KUq17s"
         }
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
-      "cor": "#6b5be2",
-      "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
-      },
+      "titulo": "Viagens",
+      "cor": "#26BED6",
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "TOP 7 LUGARES MAIS BONITOS DE SERRAS GERAIS",
+          "url": "https://www.youtube.com/watch?v=XnFihCqsf9g"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "Trilha do Morro dos Cabritos da Prainha- Zona Oeste Rio de Janeiro.",
+          "url": "https://www.youtube.com/watch?v=n2JcG2YgsCs"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "ARRAIAL DO CABO - ROTEIRO DE 3 DIAS",
+          "url": "https://www.youtube.com/watch?v=rXGWDJBZdpw"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          "titulo": "Garganta do Céu - Trilha Pedra da Gávea via P4",
+          "url": "https://www.youtube.com/watch?v=7QFKN1QApuw"
         },
         {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "DESCOBRI O BURACO AZUL DE JERICOACOARA",
+          "url": "https://www.youtube.com/watch?v=ezG1ly391tQ"
+        },
+        {
+          "titulo": "A PRAIA MAIS BONITA DO MÉXICO - Mahahual | América Central #17",
+          "url": "https://www.youtube.com/watch?v=d8hkAQ3psBI"
+        },
+        {
+          "titulo": "MALDIVAS - Quanto custa viajar para esse paraíso?",
+          "url": "https://www.youtube.com/watch?v=m43fkzRQjok"
         }
       ]
     }

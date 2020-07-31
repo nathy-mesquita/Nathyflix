@@ -13,7 +13,7 @@ function Home() {
       <BannerMain
         videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
         url={dadosIniciais.categorias[0].videos[0].url}
-        videoDescription={"Selecionamos com excelência os melhores produtos e te ajudamos a customizar sua carteira para você obter o melhor resultado de acordo com seu momento de vida e propósito de investimentos."}
+        videoDescription={"My name is Nahaly Mesquita from Brazil (🇧🇷). I've been working as Front-End Developer  I'm passionate about open source projects. In my free time, I like to watch these videos, which are my hobby and aspirations."}
       />
 
       <Carousel
